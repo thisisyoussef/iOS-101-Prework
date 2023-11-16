@@ -16,7 +16,14 @@ The following required functionality is completed:
  
 ## Video Walkthrough
 
-<div style="position: relative; padding-bottom: 64.94708994708994%; height: 0;"><iframe src="https://www.loom.com/embed/d52f280fc6ba4b6f8283128d6164e168?sid=2dd723dd-b6dd-4617-98e7-850c773d2f6d" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/d52f280fc6ba4b6f8283128d6164e168">
+      <p>My iOS Pre-Work Walkthrough - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/d52f280fc6ba4b6f8283128d6164e168">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d52f280fc6ba4b6f8283128d6164e168-with-play.gif">
+    </a>
+  </div>
 
 ## Optional Features
 
