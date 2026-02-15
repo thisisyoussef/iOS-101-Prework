@@ -1,74 +1,9 @@
+# iOS 101 Prework — CodePath iOS Course
 
-# Prework - Color Changer
+Prework assignment for the CodePath iOS 101 course. A Swift app demonstrating basic iOS development concepts.
 
-Submitted by: Youssef Ahmed
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 
-Color Changer is an intuitive and engaging app that allows users to alter the background color of their screen with a simple tap. The app's straightforward design and interactive elements make it a perfect starting point for beginners in iOS development.
+## Tech Stack
 
-Time spent: 1 hour spent in total
-
-## Required Features
-
-The following required functionality is completed:
-
-- [x] Users can see a screen with three labels and a button.
-- [x] Tapping the button changes the screen color to a random color.
- 
-## Video Walkthrough
-
-<div>
-    <a href="https://www.loom.com/share/d52f280fc6ba4b6f8283128d6164e168">
-      <p>My iOS Pre-Work Walkthrough - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/d52f280fc6ba4b6f8283128d6164e168">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/d52f280fc6ba4b6f8283128d6164e168-with-play.gif">
-    </a>
-  </div>
-
-## Optional Features
-
-To further enhance the app:
-
-- Implement dynamic font changes for an improved visual experience.
-- Add features like image views and text fields for user interaction.
-- Develop functionality to alter the text color along with the background.
-
-## App Brainstorming
-
-### Favorite Apps Analysis
-
-1. WhatsApp:
-   - End-to-end encryption for secure messaging.
-   - Ability to send voice messages.
-
-2. Spotify:
-   - Personalized music recommendations.
-   - Easy playlist creation and sharing.
-
-3. Google Maps:
-   - Accurate, real-time traffic updates.
-   - Turn-by-turn navigation.
-
-### App Idea
-
-Travel Companion: An app designed to enhance the travel experience. It would provide personalized recommendations for local attractions, eateries, and hidden gems based on the user's preferences and location. Features would include itinerary planning, real-time weather updates, and a social platform for travelers to share experiences and tips.
-
-## Notes
-
-Encountered challenges with logic connection to UI. Solved this by simply reiewing the steps and realizing I had accidentally disconnected the button to its logic.
-
-## License
-
-Copyright [2023] [Jane Doe]
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Swift, UIKit, Xcode
